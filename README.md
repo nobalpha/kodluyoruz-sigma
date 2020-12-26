@@ -1,4 +1,4 @@
-# kodluyoruz-sigma
+# Kodluyoruz Sigma Takımı
 Öncelikle projenin henüz tamamlanmadığına dikakt çekmek isterim. 
 Sonrasında, kullandığımız teknolojileri saymamız gerekirse:
 - React
